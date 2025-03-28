@@ -28,7 +28,7 @@
     <distributionManagement>
         <repository>
             <id>codeartifact-releases</id>
-            <url>http://my-maven-domain-025066286986.d.codeartifactus-west-2.amazonaws.com/maven/my-maven-repository/</url>
+            <url>http://my-maven-domain-025066286986.d.codeartifact.us-west-2.amazonaws.com/maven/my-maven-repository/</url>
         </repository>
     </distributionManagement>
 	
