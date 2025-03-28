@@ -25,12 +25,12 @@
    		<sonar.language>java</sonar.language>
 	</properties>
 	
-<!--     <distributionManagement>
+    <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://repourl/repository/maven-releases/</url>
+            <id>codeartifact-releases</id>
+            <url>http://my-maven-domain-025066286986.d.codeartifactus-west-2.amazonaws.com/maven/my-maven-repository/</url>
         </repository>
-    </distributionManagement>     -->
+    </distributionManagement>
 	
 	<dependencies>
 		<dependency>
